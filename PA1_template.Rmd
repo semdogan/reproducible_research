@@ -101,8 +101,8 @@ median(totalStepsPerDay2$imputed.steps)
 ```
 
 Imputing missing data on the estimates of the total daily number of steps had very limited effect.
-Mean is the same.
-There is a slight increase in the median. 
+Mean is the same (10766.19).
+There is a slight increase in the median (10766.19 vs 10765). 
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
